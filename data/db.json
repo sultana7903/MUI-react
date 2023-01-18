@@ -1,0 +1,36 @@
+{
+  "notes": [
+    {
+      "title": "Rohan Birthday bash",
+      "details": "this is a dummy text inside the notes this a dummy birthday bash",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Money is essential thiings to everyone",
+      "details": "this is a dummy text inside the notes and it takes long a time to time.",
+      "category": "money",
+      "id": 2
+    },
+    {
+      "title": "work pressure is heavy",
+      "details": "this is a dummy text inside the notes not eventually attached by the heart of everyone.",
+      "category": "work",
+      "id": 3
+    },
+    {
+      "title": "order a pizza ",
+      "details": "this is a dummy text inside the notes.",
+      "category": "todos",
+      "id": 4
+    }
+  ],
+  "employee": [
+    {
+      "title": "hello this a tata motors",
+      "details": "this is a dummy text inside the notes this a tata motors employee included",
+      "category": "emp worker",
+      "id": 100
+    }
+  ]
+}
